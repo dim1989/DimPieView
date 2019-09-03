@@ -2,14 +2,16 @@
 
 ## PieView 是一个，圆形的显示不同类型，不同颜色的自定义控件。
 
-# allprojects {
+# allprojects 
+{
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
 
-#  dependencies {
+#  dependencies 
+{
 	        implementation 'com.github.dim1989:DimPieView:0.1'
 	}
 
