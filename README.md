@@ -10,7 +10,7 @@
 	}
 
 #  dependencies {
-	        implementation 'com.github.dim1989:DimPieView:Tag'
+	        implementation 'com.github.dim1989:DimPieView:0.1'
 	}
 
 
